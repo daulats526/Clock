@@ -1,4 +1,4 @@
-body {
+main {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,4 +15,16 @@ body {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+footer{
+    padding: 24px;
+    background-color: #282c34;
+}
+
+.credit{
+    color: chartreuse;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
 }
